@@ -1,6 +1,6 @@
 <div>
       <h1>Hi there, I'm Demilade! 👋</h1>
-      <p>🚀 Backend Engineer | 🤖 ML Enthusiast | 🌐 SWE</p>
+      <p>🚀 Computer Scientist | 🌐 SWE</p>
       <p>Welcome to my GitHub! I'm a passionate backend/systems engineer with a talent for building robust, scalable applications that solve real-world problems. Whether it's crafting APIs, managing complex databases, or diving into machine learning and AI, I'm always ready to explore, learn, and innovate.</p>
   </div>
 
