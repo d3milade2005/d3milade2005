@@ -1,7 +1,7 @@
 <div>
       <h1>Hi there, I'm Demilade! 👋</h1>
       <p>🚀 Backend Engineer | 🤖 ML Enthusiast | 🌐 SWE</p>
-      <p>Welcome to my GitHub! I'm a passionate backend engineer with a talent for building robust, scalable applications that solve real-world problems. Whether it's crafting APIs, managing complex databases with PostgreSQL, or diving into machine learning and AI, I'm always ready to explore, learn, and innovate.</p>
+      <p>Welcome to my GitHub! I'm a passionate backend/systems engineer with a talent for building robust, scalable applications that solve real-world problems. Whether it's crafting APIs, managing complex databases, or diving into machine learning and AI, I'm always ready to explore, learn, and innovate.</p>
   </div>
 
   <div>
@@ -10,25 +10,21 @@
         <tr>
           <td><img src="https://img.icons8.com/color/50/python.png" alt="Python" width="50" height="50"></td>
           <td><img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="50" height="50"></td>
-          <td><img src="https://img.icons8.com/color/50/javascript.png" alt="JavaScript" width="50" height="50"></td>
-          <td><img src="https://img.icons8.com/material-sharp/24/django.png" alt="Django" width="50" height="50"></td>
-          <td><img src="https://img.icons8.com/ultraviolet/40/react--v1.png" alt="React" width="50" height="50"></td>
+          <td><img src="https://img.icons8.com/color/48/rust-programming-language.png" alt="Rust" width="50" height="50"></td>
+          <td><img src="https://img.icons8.com/color/50/spring-logo.png" alt="Springboot" width="50" height="50"></td>
           <td><img src="https://img.icons8.com/color/50/postgreesql.png" alt="PostgreSQL" width="50" height="50"></td>
           <td><img src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" width="50" height="50"></td>
           <td><img src="https://img.icons8.com/color/50/kubernetes.png" alt="Kubernetes" width="50" height="50"></td>
           <td><img src="https://img.icons8.com/color/50/redis--v1.png" alt="Redis" width="50" height="50"></td>
-          <td><img src="https://img.icons8.com/color/50/nginx.png" alt="Nginx" width="50" height="50"></td>
-          <td><img src="https://img.icons8.com/dusk/64/postman-api.png" alt="Postman" width="50" height="50"></td>
           <td><img src="https://img.icons8.com/color/50/git.png" alt="Git" width="50" height="50"></td>
           <td><img src="https://img.icons8.com/material-outlined/48/github.png" alt="Github" width="50" height="50"></td>
           <td><img src="https://img.icons8.com/color/50/amazon-web-services.png" alt="AWS" width="50" height="50"></td>
-          <td><img src="https://img.icons8.com/color/50/spring-logo.png" alt="Springboot" width="50" height="50"></td>
         </tr>
       </table>
   <div>
       <h2>🌟 What You'll Find Here</h2>
       <ul>
-          <li>💡 <strong>Innovative Projects</strong>: From inventory management systems to travel trackers, each project is built with clean code and best practices.</li>
+          <li>💡 <strong>Innovative Projects</strong></li>
           <li>📚 <strong>Learning in Public</strong>: My experiments with new technologies like machine learning and AI.</li>
           <li>🤝 <strong>Collaboration</strong>: Open to contributing and collaborating on impactful projects.</li>
       </ul>
@@ -37,8 +33,9 @@
   <div>
       <h2>🔭 Current Focus</h2>
       <ul>
+          <li>Looking into Product engineering.</li>
           <li>Mastering cloud computing to enhance backend architecture.</li>
-          <li>Exploring AI and ML to integrate intelligence into applications.</li>
+          <li>Exploring AI/ML to integrate intelligence into applications.</li>
       </ul>
   </div>
 
