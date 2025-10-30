@@ -1,7 +1,7 @@
 <div>
       <h1>Hi there, I'm Demilade! 👋</h1>
       <p>🚀 Computer Scientist | 🌐 SWE</p>
-      <p>Welcome to my GitHub! I'm a passionate backend/systems engineer with a talent for building robust, scalable applications that solve real-world problems. Whether it's crafting APIs, managing complex databases, or diving into machine learning and AI, I'm always ready to explore, learn, and innovate.</p>
+      <p>Welcome to my GitHub! I'm a backend and systems engineer specializing in building scalable, reliable, and high-performance applications. I focus on designing efficient APIs, managing complex data systems, and leveraging AI to deliver impactful solutions.</p>
   </div>
 
   <div>
@@ -21,30 +21,6 @@
           <td><img src="https://img.icons8.com/color/50/amazon-web-services.png" alt="AWS" width="50" height="50"></td>
         </tr>
       </table>
-  <div>
-      <h2>🌟 What You'll Find Here</h2>
-      <ul>
-          <li>💡 <strong>Innovative Projects</strong></li>
-          <li>📚 <strong>Learning in Public</strong>: My experiments with new technologies like machine learning and AI.</li>
-          <li>🤝 <strong>Collaboration</strong>: Open to contributing and collaborating on impactful projects.</li>
-      </ul>
-  </div>
-
-  <div>
-      <h2>🔭 Current Focus</h2>
-      <ul>
-          <li>Looking into Product engineering.</li>
-          <li>Mastering cloud computing to enhance backend architecture.</li>
-          <li>Exploring AI/ML to integrate intelligence into applications.</li>
-      </ul>
-  </div>
-
-  <div>
-      <h2>🎯 Fun Facts</h2>
-      <p>🎾 I love playing tennis when I'm not coding.</p>
-      <p>🌍 Member of Google Student Club and IEEE Student Society.</p>
-      <p>📖 Constant learner with a goal to simplify complex systems.</p>
-  </div>
 
   <div>
       <h2>📬 Let's Connect</h2>
